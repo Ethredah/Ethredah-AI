@@ -43,7 +43,6 @@ To use this chatbot, download the zipped file of the repository and import it in
 
    <hr>
 
-   <p style="color: brown;">There's so much more than a simple chatbot you can make with Dialogflow.</p>
-
-   <p style="color: yellow;">It is a great place to get started with AI and ML</p>
+There's so much more than a simple chatbot you can make with Dialogflow.
+It is a great place to get started with AI and ML :wink:
 
