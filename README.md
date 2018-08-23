@@ -10,6 +10,8 @@ I know it's wierd making a bot version of you but this is to also demonstrates m
 
 <br/>
 
+### QUICK START
+To use try this chatbot, download the zipped file of the repository and import it in a new agent on your DialogFlow Console.
 
 ## Okay then...let's get started:
 
