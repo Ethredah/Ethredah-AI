@@ -4,11 +4,11 @@
 
 ### This is an AI Version of me!
 	
-	I know it's wierd making a bot version of you but this is to also demonstrates making a simple chat bot with dialogflow.
+I know it's wierd making a bot version of you but this is to also demonstrates making a simple chat bot with dialogflow.
 
 ![Chat With Agent](chat.gif "Chat With Agent")
 
-
+<br/>
 
 
 ## Okay then...let's get started:
