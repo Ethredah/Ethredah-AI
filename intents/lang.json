@@ -1,0 +1,38 @@
+{
+  "id": "e55cb95a-2faf-4161-b663-648ee417ffb0",
+  "name": "lang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "lang-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Javascript, PhP, Python",
+            "PHP, Javascript, Python",
+            "React Js, PHP, Python"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535042108,
+  "fallbackIntent": false,
+  "events": []
+}

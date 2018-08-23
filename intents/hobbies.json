@@ -1,0 +1,34 @@
+{
+  "id": "a58a5368-44f9-4fee-a6bd-197958830342",
+  "name": "hobbies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I like writing code",
+            "I code most of the time",
+            "Coding",
+            "I program a lot",
+            "I play tennis sometimes"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535041945,
+  "fallbackIntent": false,
+  "events": []
+}
